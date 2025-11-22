@@ -1,17 +1,14 @@
 {
-  "sites": [
-    "Eporner",
-    "HentaiCity",
-    "HentaiFox",
-    "JavGiga",
-    "JavHDToday",
-    "JavTsunami",
-    "MissAv",
-    "Pornhub",
-    "SpankBang",
-    "XAsiat",
-    "Xhamster",
-    "XNXX",
-    "XVideos"
-  ]
+  "providers": {
+    "p1": "Eporner",
+    "p2": "HentaiCity",
+    "p3": "HentaiFox",
+    "p4": "JavGiga",
+    "p5": "JavHDToday",
+    "p6": "JavTsunami",
+    "p7": "MissAv",
+    "p8": "Pornhub",
+    "p9": "XNXX",
+    "p10": "XVideos"
+  }
 }
